@@ -1,5 +1,7 @@
 # Frontend Mentor - Fylo dark theme landing page
 
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch 
+
 ![Design preview for the Fylo dark theme landing page challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
